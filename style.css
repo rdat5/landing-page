@@ -1,1 +1,10 @@
 /* style.css */
+
+.header {
+    background-color: #1F2937;
+    color: white;
+}
+
+.header-logo-text {
+    font-size: 24px
+}
